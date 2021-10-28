@@ -8,6 +8,8 @@ Swaps on Thorchain dashboard(The Total Number Of Swaps On ThorChain) - https://a
 Volume of Thorchain activity by Asset - https://app.flipsidecrypto.com/dashboard/volume-of-tho-rchain-activity-by-asset-L3fGjS
 Comprised of - Volume Of Thorchain Activity By Asset, ETH Volume Thorchain, BNB Volume Thorchain. 
 
+Total volume swapped by pool over time - https://app.flipsidecrypto.com/dashboard/total-volume-swapped-by-pool-and-over-time-kyronne-NgacXx Comprised of - Swap Volume by pool Rune, Swap Volume by pool USD.
+
 
 
 
