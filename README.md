@@ -12,7 +12,7 @@ Total volume swapped by pool over time - https://app.flipsidecrypto.com/dashboar
 
 Number of users of Thorchain Bridges by asset - https://app.flipsidecrypto.com/dashboard/number-of-users-of-thor-chain-bridges-by-asset-ZIJjXj Comprised of - Number of Unique Eth Addresses, Number of Unique BNB Addresses
 
-Number of LP's on Thorchain - https://app.flipsidecrypto.com/dashboard/number-of-l-ps-on-thorchain-oH6LKR
+Number of LP's on Thorchain - https://app.flipsidecrypto.com/dashboard/number-of-l-ps-on-thorchain-oH6LKR  Comprised of Number of Unique Lp's on Thorchain
 
 
 
